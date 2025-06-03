@@ -837,7 +837,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyCount: 0
   enemyPrefab: {fileID: 8521714309759329352, guid: 7773b6473387cce40a158554f0620a9a, type: 3}
-  powerupPrefab: {fileID: 0}
+  powerupPrefab: {fileID: 5525066406396143960, guid: 01b3624e3d9214842946841e01d6a61e, type: 3}
   waveNumber: 1
 --- !u!1 &2004578678
 GameObject:
